@@ -53,8 +53,14 @@ Responsável pela visão macro da carteira
 - Quantidade de contratos
 - Valor total da carteira
 - Ticket médio
-- Distribuição por produto
-- Distribuição por score
+
+- % Representatividade de base por Sexo
+- % Representatividade de base por faixa etária (qtd, %)
+- % Representatividade de base por UF (qtd, %)
+- % Representatividade de base por faixa de renda (valor, %)
+- % Representatividade de base por Score (qtd, %)
+- % Representatividade de base por Produto (qtd,%)
+
 
 ### 2. Aba: Ações Massivas 
 Responsável pela análise operacional das ações de cobrança
@@ -63,19 +69,16 @@ Responsável pela análise operacional das ações de cobrança
 
 - Quantos clientes foram acionados?
 - Qual canal teve maior utilização?
-- Qual canal teve maior taxa de contato?
+- Qual canal teve maior taxa de retorno?
 - Quantas promessas foram geradas?
 - Quantos pagamentos foram convertidos?
 - Qual estratégia apresenta melhor performance?
 
 #### Principais indicadores:
 
-- Total de acionamentos
-- Taxa de contato (% Alô)
-- CPC (% Contato com a pessoa certa)
-- Taxa de promessa
-- Taxa de pagamento
-- Conversão operacional
+- Volume de ações massivas disparado (qtd, %)
+- Retorno das ações, separado por canal: Ligação, E-mail, SMS, WhatsApp
+- Pagamento por canal (qtd, %)
 
 ## Estrutura das Bases
 
@@ -93,6 +96,10 @@ Responsável pela análise operacional das ações de cobrança
 
 ### Ações Massivas 
 <img width="1547" height="725" alt="image" src="https://github.com/user-attachments/assets/4a4fd9db-6d93-4f5e-8ec6-e5a362e42e74" />
+
+## Filtro
+<img width="487" height="392" alt="image" src="https://github.com/user-attachments/assets/4f9f6e7a-eb51-449c-a4b5-84320a08da65" />
+
 
 ## Autor 
 
